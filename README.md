@@ -6,6 +6,7 @@ Bem vindo ao repo de avaliações Front End da Stefanini Inspiring. Agradecemos 
 
 ## Pré Requisitos:
 O conhecimento no sistema de versionamento git é um pré requisito para responder as seguintes questões, porém, não deve ser um impeditivo para os que não estão familiarizados com a ferramenta, pois a capacidade de pesquisar e aprender novos conceitos também será avaliada e é um requisito de trabalho em nosso dia a dia.
+
 Ter uma versão do node.js instalada, utilizamos a v10.9.0 para estes projetos.
 
 ## Regras:
