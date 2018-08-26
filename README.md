@@ -30,9 +30,10 @@ Observações:
 Utilize a frequência de commits que julgar necessária para organizar bem o seu trabalho.
 
 
-### Questão 1
+### Questão 1 - Javascript
+Acesse a pasta `avaliacoes-frontend/javascript`
 
-Temos um mapa com alguns pontos de interesse já mapeados no objecto criado com nome placesOfInterest dentro de index.js.
+Neste diretório, temos um mapa com alguns pontos de interesse já mapeados no objecto criado com nome placesOfInterest dentro de index.js.
 O projeto poderá ser acessado utilizando o servidor http-server do node.js, para executá-lo, você deverá rodar os seguintes comandos em um terminal dentro da pasta do projeto:
 
 `npm install` <--- para instalar as dependências, como o http-server por exemplo
