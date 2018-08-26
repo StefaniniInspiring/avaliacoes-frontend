@@ -69,10 +69,10 @@ c) O que acontece quando removemos o parâmetro &callback=initMap da url da api 
 d) Descreva pelo menos uma forma de como podemos fazer com que a aplicação funcione corretamente mesmo sem este parâmetro.
 
 e) Explique para que servem as seguintes tags do index.html: 
-  <link rel="manifest" href="manifest.json">
+  `<link rel="manifest" href="manifest.json">
   <meta name="theme-color" content="">
   <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">`
   
 f) Está aplicação pode ser considerada um PWA? Em caso negativo, explique o que falta para que seja.
 
