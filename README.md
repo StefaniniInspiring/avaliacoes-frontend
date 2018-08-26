@@ -36,12 +36,13 @@ Temos um mapa com alguns pontos de interesse já mapeados no objecto criado com 
 O projeto poderá ser acessado utilizando o servidor http-server do node.js, para executá-lo, você deverá rodar os seguintes comandos em um terminal dentro da pasta do projeto:
 
 `npm install` <--- para instalar as dependências, como o http-server por exemplo
+
 `./node_modules/http-server/bin/http-server .`   <--- para subir o servidor e servir a aplicação 
 
 O site deverá estar acessível em http://localhost:8080
 
 a) A aplicação exibe um marcador de 1 dos pontos de interesse, localizado na Avenida Paulista ao lado do Parque Trianon em frente ao MASP.
-Modificque o código da aplicação para que ela passe a exibir todos os pontos de interesse listados no Array 'placesOfInterest'
+Modificque o código da aplicação para que ela passe a exibir todos os pontos de interesse listados no Array 'placesOfInterest'.
 
 b) Modifique a aplicação para alterar a cor do marcador de um ponto de interesse quando este for clicado, conforme exemplo:
 ![Exemplo](resources/examples/exemplo01.gif)
