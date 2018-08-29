@@ -59,6 +59,8 @@ d) Modifique a aplicação para voltar a cor original do marcador ao fechar a ja
 e) Modifique a aplicação para fechar uma janela de um marcador previamente aberta, quando outra janela for clicada. Também deverá restaurar a cor original do marcador peviamente selecionado, cofnrome exemplo:
 ![Exemplo](resources/examples/exemplo04.gif)
 
+Desafio)
+Adicione um botão de centralizar mapa, que quando clicado, caso o usuário dê permissão de acessar a localização do navegador, leve o mapa para as coordenadas do usuário.
 
 ### Questão 2
 Responda as perguntas sobre o projeto da questão 1:
