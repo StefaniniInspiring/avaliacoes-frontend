@@ -62,4 +62,4 @@ R:
 ### d) Para que servem os comandos async e await, encontrados na função presentLoading do arquivo home.page.ts?
 R:
 
-f) Quais as vantagens de utilizar async/await em códigos javascript/typescript?
+### f) Quais as vantagens de utilizar async/await em códigos javascript/typescript?
