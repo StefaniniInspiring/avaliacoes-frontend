@@ -63,3 +63,4 @@ R:
 R:
 
 ### f) Quais as vantagens de utilizar async/await em códigos javascript/typescript?
+R:
