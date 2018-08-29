@@ -174,6 +174,6 @@ b) Ordene os problemas por ordem de criticidade, ou seja, liste todos os problem
 
 c) Justifique a ordem proposta no item anterior em termos de impacto para os usuários e dificuldade para corrigir o problema.
 
-d) Para que servem os comandos async e await, encontrados na função presentLoading do arquivo home.page.ts?
+d) Para que servem os comandos async e await encontrados na função presentLoading do arquivo home.page.ts?
 
 f) Quais as vantagens de utilizar async/await em códigos javascript/typescript?
