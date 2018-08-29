@@ -1,8 +1,9 @@
 
 # Inspiring Avaliações Front End
 
-Bem vindo ao repo de avaliações Front End da Stefanini Inspiring. Agradecemos o seu interesse em se juntar a nós, agora leia as instruções com calma e não deixe de evidenciar o seu progresso mesmo que não consiga concluir totalmente algum item. Lemre-se que errar é o primeiro passo para o aprendizado.
-Happy coding.
+Bem vindo ao repo de avaliações Front End da Stefanini Inspiring. Agradecemos o seu interesse em se juntar a nós, agora leia as instruções com calma e não deixe de evidenciar o seu progresso mesmo que não consiga concluir totalmente algum item. 
+
+Lembre-se que errar é o primeiro passo para o aprendizado e Happy coding.
 
 
 ## Pré Requisitos:
