@@ -91,6 +91,9 @@ f) Está aplicação pode ser considerada um PWA? Em caso negativo, explique o q
 
 # Parte 02 - Angular
 
+A partir de agora, utilizaremos Angular 6 para os projetos. Instale a versão utilizada com o seguinte comando: 
+`npm install -g @angular/cli@6.1.1`
+
 ### Questão 3
 
 Acesse a pasta `avaliacoes-frontend/angular`
