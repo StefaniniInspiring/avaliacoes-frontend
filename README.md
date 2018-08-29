@@ -1,13 +1,14 @@
 
 # Inspiring Avaliações Front End
 
-Bem vindo ao repo de avaliações Front End da Stefanini Inspiring. Agradecemos o seu interesse em se juntar a nós, agora leia as instruções com calma e happy coding.
+Bem vindo ao repo de avaliações Front End da Stefanini Inspiring. Agradecemos o seu interesse em se juntar a nós, agora leia as instruções com calma e não deixe de evidenciar o seu progresso mesmo que não consiga concluir totalmente algum item. Lemre-se que errar é o primeiro passo para o aprendizado.
+Happy coding.
 
 
 ## Pré Requisitos:
 O conhecimento no sistema de versionamento git é um pré requisito para responder as seguintes questões, porém, não deve ser um impeditivo para os que não estão familiarizados com a ferramenta, pois a capacidade de pesquisar e aprender novos conceitos também será avaliada e é um requisito de trabalho em nosso dia a dia.
 
-Ter uma versão do node.js instalada, utilizamos a v10.9.0 para estes projetos.
+Ter uma versão do node.js instalada, utilizamos a versão 10.9.0 para os projetos.
 
 ## Regras:
 Esta avliação é composta por pequenas aplicações já criadas nas quais você deverá adicionar algumas funcionalidades conforme informado.
@@ -68,7 +69,7 @@ Desafio)
 Adicione um botão de centralizar mapa, que quando clicado, caso o usuário dê permissão de acessar a localização do navegador, leve o mapa para as coordenadas do usuário.
 
 ### Questão 2
-Responda as perguntas sobre o projeto da questão 1:
+Responda na folha de respostas as perguntas sobre o projeto da questão 1:
 
 a) No import da api do google maps no index.html, para que servem as tags async e defer?
 
@@ -123,4 +124,49 @@ Modifique a primeira aba para permitir que a lista de nomes seja reordenável, c
 
 
 ### Questão 4
-Responda as perguntas sobre o projeto da questão 2:
+Responda na folha de respostas as perguntas sobre o projeto da questão 2:
+
+a) Para que serve o método ngOnInit, quais são os outros métodos do Angular lifecycle hooks e para que servem?
+
+b) Neste projeto, estamos usando os componentes gráficos da versão 4 da biblioteca gráfica do Ionic. Nesta versão, os componentes são Web Components.
+Explique o que são Web Components e explique quais são as vantagens deles.
+
+c) Para que serve a tag ngFor do angular?
+
+d) O que o codigo abaixo representa no arquivo list.page.ts?
+`legends: Array<string> = []`
+
+e) Como funciona a api Events do Ionic? Para que serve?
+
+f) O que é flexbox? Para que servem as tags ion-grid, ion-row, ion-col? Quais as vantagens em utilizálas?
+
+
+# Parte 03 - Identificar e corrigir problemas
+Nesta etapa, será avaliada a habilidade em identificar e corrigir problemas comuns de aplicações.
+
+Para executar esta aplicação, rode os comandos:
+`cd avaliacoes-frontend/devops`
+`npm install`
+`ng serve`
+
+A aplicação deverá estar acessível em http://localhost:4200
+
+### Questão 5
+
+A aplicação apresenta diversos problemas de estrutura de código e de performance.
+
+Faça todas as alterações que julgar necessárias para para tornr a aplicação mais profissional e com uma performance melhor.
+Commite as alterações e mensagens com a frquência que julgar necessárias.
+
+### Questão 6
+Responda na folha de respostas as perguntas sobre o projeto da questão 4:
+
+a) Quais foram os problemas que você identificou?
+
+b) Ordene os problemas por ordem de criticidade, ou seja, liste todos os problemas encontrados na ordem de quais deveriam ser corrigidos primeiro em um cenário onde devessemos priorizar as correções.
+
+c) Justifique a ordem proposta no item anterior em termos de impacto para os usuários e dificuldade para corrigir o problema.
+
+d) Para que servem os comandos async e await, encontrados na função presentLoading do arquivo home.page.ts?
+
+f) Quais as vantagens de utilizar async/await em códigos javascript/typescript?

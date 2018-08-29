@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['list.page.scss']
 })
 export class ListPage {
-  legends;
+  legends: Array<string> = [];
 
   ngOnInit() {
 
