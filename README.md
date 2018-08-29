@@ -18,7 +18,9 @@ O formato de entrega da avaliação será feito no github em uma conta de seu no
 O projeto deverá ser clonado e as modificações deverão ser commitadas para a sua conta do github. 
 
 Para clonar o projeto, utilize os comandos
+
 `git clone https://github.com/StefaniniInspiring/avaliacoes-frontend.git`
+
 `rm -rf .git/`
 
 As questões de funcionalidades, serão avaliadas analisando os commits que você fizer.
