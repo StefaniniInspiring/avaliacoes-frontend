@@ -18,7 +18,9 @@ O formato de entrega da avaliação será feito no github em uma conta de seu no
 O projeto deverá ser clonado e as modificações deverão ser commitadas para a sua conta do github. 
 
 Para clonar o projeto, utilize os comandos
+
 `git clone https://github.com/StefaniniInspiring/avaliacoes-frontend.git`
+
 `rm -rf .git/`
 
 As questões de funcionalidades, serão avaliadas analisando os commits que você fizer.
@@ -96,7 +98,9 @@ Acesse a pasta `avaliacoes-frontend/angular`
 Neste diretório, temos uma aplicação em Angular 6. Para executá-la localmente, execute os comandos
 
 `cd avaliacoes-frontend/angular`
+
 `npm install`
+
 `ng serve`
 
 A aplicação deverá estar acessível em http://localhost:4200
@@ -146,7 +150,9 @@ Nesta etapa, será avaliada a habilidade em identificar e corrigir problemas com
 
 Para executar esta aplicação, rode os comandos:
 `cd avaliacoes-frontend/devops`
+
 `npm install`
+
 `ng serve`
 
 A aplicação deverá estar acessível em http://localhost:4200
@@ -155,11 +161,12 @@ A aplicação deverá estar acessível em http://localhost:4200
 
 A aplicação apresenta diversos problemas de estrutura de código e de performance.
 
-Faça todas as alterações que julgar necessárias para para tornr a aplicação mais profissional e com uma performance melhor.
+Faça todas as alterações que julgar necessárias para para forná-la mais profissional e com uma performance melhor.
+
 Commite as alterações e mensagens com a frquência que julgar necessárias.
 
 ### Questão 6
-Responda na folha de respostas as perguntas sobre o projeto da questão 4:
+Responda na folha de respostas as perguntas sobre o projeto da questão 5:
 
 a) Quais foram os problemas que você identificou?
 
