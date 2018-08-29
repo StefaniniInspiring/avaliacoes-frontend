@@ -24,3 +24,6 @@ R:
 
 ### f) Está aplicação pode ser considerada um PWA? Em caso negativo, explique o que falta para que seja.
 R:
+
+
+## Angular Questão 4:

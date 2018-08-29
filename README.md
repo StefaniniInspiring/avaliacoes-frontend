@@ -13,7 +13,12 @@ Ter uma versão do node.js instalada, utilizamos a v10.9.0 para estes projetos.
 Esta avliação é composta por pequenas aplicações já criadas nas quais você deverá adicionar algumas funcionalidades conforme informado.
 Também serão feitas algumas questões sobre as aplicações, que deverão ser respondidas.
 
-O formato de entrega da avaliação será feito no github ou bitbucket, caso prefira, em uma conta de seu nome.
+O formato de entrega da avaliação será feito no github em uma conta de seu nome.
+O projeto deverá ser clonado e as modificações deverão ser commitadas para a sua conta do github. 
+
+Para clonar o projeto, utilize os comandos
+`git clone https://github.com/StefaniniInspiring/avaliacoes-frontend.git`
+`rm -rf .git/`
 
 As questões de funcionalidades, serão avaliadas analisando os commits que você fizer.
 As perguntas, deverão ser respondidas no arquivo respostas_README.md.
@@ -115,3 +120,7 @@ Dica, pesquise a API Events, do Ionic Angular
 Desafio)
 Modifique a primeira aba para permitir que a lista de nomes seja reordenável, conforme exemplo abaixo:
 ![Exemplo](resources/examples/angular_exemplo_desafio.gif)
+
+
+### Questão 4
+Responda as perguntas sobre o projeto da questão 2:
