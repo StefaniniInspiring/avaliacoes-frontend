@@ -96,7 +96,9 @@ Acesse a pasta `avaliacoes-frontend/angular`
 Neste diretório, temos uma aplicação em Angular 6. Para executá-la localmente, execute os comandos
 
 `cd avaliacoes-frontend/angular`
+
 `npm install`
+
 `ng serve`
 
 A aplicação deverá estar acessível em http://localhost:4200
@@ -146,7 +148,9 @@ Nesta etapa, será avaliada a habilidade em identificar e corrigir problemas com
 
 Para executar esta aplicação, rode os comandos:
 `cd avaliacoes-frontend/devops`
+
 `npm install`
+
 `ng serve`
 
 A aplicação deverá estar acessível em http://localhost:4200
