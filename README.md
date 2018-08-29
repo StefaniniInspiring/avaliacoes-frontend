@@ -30,6 +30,7 @@ Coerência das respostas (As respostas das perguntas são claras e demonstram en
 Observações:
 Utilize a frequência de commits que julgar necessária para organizar bem o seu trabalho.
 
+# Parte 01 - Javascript
 
 ### Questão 1 - Javascript
 Acesse a pasta `avaliacoes-frontend/javascript`
@@ -78,3 +79,37 @@ e) Explique para que servem as seguintes tags do index.html:
   
 f) Está aplicação pode ser considerada um PWA? Em caso negativo, explique o que falta para que seja.
 
+# Parte 02 - Angular
+
+### Questão 3
+
+Acesse a pasta `avaliacoes-frontend/angular`
+
+Neste diretório, temos uma aplicação em Angular 6. Para executá-la localmente, execute os comandos
+
+`cd avaliacoes-frontend/angular`
+`npm install`
+`ng serve`
+
+A aplicação deverá estar acessível em http://localhost:4200
+
+a) Modifique a aplicação para exibir na primeira aba 'Names List' todos os itens listados no arquivo /avaliacoes-frontend/angular/src/app/names/nameslist.ts.
+Estes itens deverão ser importados em list.page.ts e exibidos na tela conforme o exemplo abaixo:
+![Exemplo](resources/examples/angular_exemplo_01.png)
+
+b) Na aba 'Search', modifique a aplicação para buscar do arquivo /avaliacoes-frontend/angular/src/app/names/nameslist.ts os nomes que contem parte do texto digitado no campo de busca, conforme exemplo:
+![Exemplo](resources/examples/angular_exemplo_02.gif)
+Observações: 
+- A busca deve ignorar letras maiúsculas
+- Ao limpar o campo de busca, deve exibir 0 resultados
+
+c) Na aba 'Edit', modifique a aplicação para buscar do arquivo /avaliacoes-frontend/angular/src/app/names/nameslist.ts e listar na tela, exibindo um botão de editar em cada item, que permite que o nome seja alterado, conforme exemplo abaixo:
+![Exemplo](resources/examples/angular_exemplo_03.gif)
+
+d) Faça com que uma alteração na lista da aba 'Edit' seja refletida na aba 'List', conforme exemplo:
+![Exemplo](resources/examples/angular_exemplo_04.gif)
+Dica, pesquise a API Events, do Ionic Angular
+
+Desafio)
+Modifique a primeira aba para permitir que a lista de nomes seja reordenável, conforme exemplo abaixo:
+![Exemplo](resources/examples/angular_exemplo_desafio.gif)
