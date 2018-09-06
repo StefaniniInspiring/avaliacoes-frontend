@@ -29,8 +29,12 @@ As perguntas, deverão ser respondidas no arquivo respostas_README.md.
 
 Antes de commitar o arquivo com as respostas, o arquivo respostas_README.md deverá ser renomeado para README.md.
 
+**Não esqueça de responder na folha de respostas as questões 2, 4 e 6!**
 
-Serão avaliados:
+Ao final, preencha o [nosso questionário](https://bit.ly/2Cr0rQx) onde terá um local para colar a url do repositório onde você commitou as respostas, não esqueça de informá-lo corretamente.
+Link para o questionário: https://bit.ly/2Cr0rQx
+
+__Serão avaliados__:
 Qualidade do código (lógica, limpeza, identação, dentre outros)
 A aplicação está funcional? (É possível rodar a aplicação depois das alterações?)
 Resultado das alterações (As alterações feitas levam ao resultado esperado?)
@@ -181,3 +185,4 @@ c) Justifique a ordem proposta no item anterior em termos de impacto para os usu
 d) Para que servem os comandos async e await encontrados na função presentLoading do arquivo home.page.ts?
 
 f) Quais as vantagens de utilizar async/await em códigos javascript/typescript?
+
