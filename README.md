@@ -169,7 +169,7 @@ A aplicação deverá estar acessível em http://localhost:4200
 
 A aplicação apresenta diversos problemas de estrutura de código e de performance.
 
-Faça todas as alterações que julgar necessárias para para forná-la mais profissional e com uma performance melhor.
+Faça todas as alterações que julgar necessárias para corrigir e torná-la mais profissional e com uma performance melhor.
 
 Commite as alterações e mensagens com a frquência que julgar necessárias.
 
