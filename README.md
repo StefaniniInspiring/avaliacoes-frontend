@@ -184,5 +184,8 @@ c) Justifique a ordem proposta no item anterior em termos de impacto para os usu
 
 d) Para que servem os comandos async e await encontrados na função presentLoading do arquivo home.page.ts?
 
-f) Quais as vantagens de utilizar async/await em códigos javascript/typescript?
+e) Quais as vantagens de utilizar async/await em códigos javascript/typescript?
+
+f) Explique para que serve a seguinte lib encontrada no arquivo home.page.ts
+`import * as _ from 'lodash';`
 
