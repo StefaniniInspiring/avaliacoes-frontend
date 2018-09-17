@@ -31,8 +31,8 @@ Antes de commitar o arquivo com as respostas, o arquivo respostas_README.md deve
 
 **Não esqueça de responder na folha de respostas as questões 2, 4 e 6!**
 
-Ao final, preencha o [nosso questionário](https://bit.ly/2Cr0rQx) onde terá um local para colar a url do repositório onde você commitou as respostas, não esqueça de informá-lo corretamente.
-Link para o questionário: https://bit.ly/2Cr0rQx
+Ao final, preencha o [nosso questionário](https://bit.ly/2QD1gc4) onde terá um local para colar a url do repositório onde você commitou as respostas, não esqueça de informá-lo corretamente.
+Link para o questionário: https://bit.ly/2QD1gc4
 
 __Serão avaliados__:
 Qualidade do código (lógica, limpeza, identação, dentre outros)
