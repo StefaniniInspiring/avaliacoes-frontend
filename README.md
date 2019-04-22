@@ -189,3 +189,10 @@ e) Quais as vantagens de utilizar async/await em códigos javascript/typescript?
 f) Explique para que serve a seguinte lib encontrada no arquivo home.page.ts
 `import * as _ from 'lodash';`
 
+# Parte 04 - HTML e CSS
+Nesta etapa, queremos avaliar a capacidade em converter um protótipo em uma página HTML
+
+### Questão 7
+Construa uma página utilizando HTML e CSS que fique o mais próxima possvel do protótipo abaixo:
+
+![Protótipo](https://sites.google.com/a/stefaniniinspiring.com.br/fbfr/layouts/Desktop%20-%20Promo%C3%A7%C3%A3o.png)
