@@ -58,7 +58,7 @@ O projeto poderá ser acessado utilizando o servidor http-server do node.js, par
 O site deverá estar acessível em http://localhost:8080
 
 a) A aplicação exibe um marcador de 1 dos pontos de interesse, localizado na Avenida Paulista ao lado do Parque Trianon em frente ao MASP.
-Modificque o código da aplicação para que ela passe a exibir todos os pontos de interesse listados no Array 'placesOfInterest'.
+Modifique o código da aplicação para que ela passe a exibir todos os pontos de interesse listados no Array 'placesOfInterest'.
 
 b) Modifique a aplicação para alterar a cor do marcador de um ponto de interesse quando este for clicado, conforme exemplo:
 ![Exemplo](resources/examples/exemplo01.gif)
