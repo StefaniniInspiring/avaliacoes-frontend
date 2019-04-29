@@ -1,9 +1,10 @@
 
 # Inspiring Avaliações Front End
 
-Bem vindo ao repo de avaliações Front End da Stefanini Inspiring. Agradecemos o seu interesse em se juntar a nós, agora leia as instruções com calma e não deixe de evidenciar o seu progresso mesmo que não consiga concluir totalmente algum item. 
+Bem vindo ao repo de avaliações Front End da Stefanini Inspiring. Agradecemos o seu interesse em se juntar a nós e queremos lhe desejar boa sorte. 
+Leia as instruções com calma e não deixe de evidenciar o seu progresso mesmo que não consiga concluir totalmente algum item, lembre-se que errar é o primeiro passo para o aprendizado.
 
-Lembre-se que errar é o primeiro passo para o aprendizado e Happy coding.
+Happy coding!
 
 
 ## Pré Requisitos:
@@ -36,12 +37,11 @@ Link para o questionário: https://bit.ly/2QD1gc4
 
 __Serão avaliados__:
 Qualidade do código (lógica, limpeza, identação, dentre outros)
-A aplicação está funcional? (É possível rodar a aplicação depois das alterações?)
+Funcionalidade da aplicação (É possível rodar a aplicação depois das alterações?)
 Resultado das alterações (As alterações feitas levam ao resultado esperado?)
 Coerência das respostas (As respostas das perguntas são claras e demonstram entendimento do assunto?)
+Frequência de commits (Os commits são organizados e granulares?)
 
-Observações:
-Utilize a frequência de commits que julgar necessária para organizar bem o seu trabalho.
 
 # Parte 01 - Javascript
 
