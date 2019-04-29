@@ -128,7 +128,6 @@ c) Na aba 'Edit', modifique a aplicação para buscar do arquivo /avaliacoes-fro
 
 d) Faça com que uma alteração na lista da aba 'Edit' seja refletida na aba 'List', conforme exemplo:
 ![Exemplo](resources/examples/angular_exemplo_04.gif)
-Dica, pesquise a API Events, do Ionic Angular
 
 Desafio)
 Modifique a primeira aba para permitir que a lista de nomes seja reordenável, conforme exemplo abaixo:
